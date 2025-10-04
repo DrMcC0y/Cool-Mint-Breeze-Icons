@@ -4,7 +4,7 @@
 **License**: GNU General Public License v3.0 (GPL-3.0)
 **Compatible with**: Linux Mint (Cinnamon), GTK desktops
 **Author**: DrMcC0y
-**Version**: 1.0.0
+**Version**: 1.0.1
 **Status**: Actively maintained
 **Based on**: Breeze, Numix-Circle, Papirus, Hicolor (GPL-compatible)
 
@@ -12,7 +12,7 @@
 
 ### 🖼 Description
 
-**Cool-Mint-Breeze-Icons** is a modern, unified icon set designed to complement the [Cool-Mint-Breeze GTK theme](https://www.pling.com/p/2302153/).
+**Cool-Mint-Breeze-Icons** is a modern, unified icon set designed to complement the [Cool-Mint-Breeze GTK theme](https://www.pling.com/p/2322581/).
 It is a unique and cohesive theme tailored specifically for Linux Mint users who want a fresh visual experience while preserving a familiar aesthetic base.
 
 The set includes redesigned system icons, updated application icons, and custom folder styles to enhance clarity and harmony across the system.
