@@ -5,7 +5,7 @@ Comment=Breeze icons adapted for Mint Cinnamon
 
 DisplayDepth=32
 
-Inherits=breeze,Adwaita-dark,Numix-Circle,hicolor,Mint-Y-Dark-Aqua
+Inherits=breeze,Adwaita-dark,Numix-Circle,hicolor,Mint-Y-Dark-Aqua,Adwaita,Mint-Y-Aqua
 
 Example=folder
 
@@ -104,7 +104,7 @@ Type=Fixed
 Size=22
 Context=Animations
 Type=Scalable
-MinSize=22
+MinSize=22Inherits=breeze,Adwaita-dark,Numix-Circle,hicolor,Mint-Y-Dark-Aqua,Adwaita,Mint-Y-Aqua
 MaxSize=256
 
 ########## Apps
